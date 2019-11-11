@@ -9,7 +9,8 @@ def subtraction(x, y):
 def multiplication(x, y):
    return x * y
 # This function divides two numbers
-def dividivision(x, y):
+
+def division(x, y):
    return x / y
 print("Select operation.")
 print("1.Addition")
